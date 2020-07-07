@@ -5,6 +5,6 @@ eureka:
       defaultZone: http://dcams:123456@localhost:8761/eureka
 
 configPort: 28751
-eurekaPort: 8761
+eurekaPort: 28761
 zuulPort: 28771
 adminPort: 28781
