@@ -1,0 +1,10 @@
+# eureka 配置
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://dcams:123456@dcams_cloud_eureke:8761/eureka
+
+configPort: 8751
+eurekaPort: 8761
+zuulPort: 8771
+adminPort: 8781
