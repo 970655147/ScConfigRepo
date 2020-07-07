@@ -4,7 +4,6 @@ eureka:
     serviceUrl:
       defaultZone: http://dcams:123456@localhost:28761/eureka
 
-configPort: 28751
-eurekaPort: 28761
-zuulPort: 28771
-adminPort: 28781
+EUREKA_PORT: 28761
+ZUUL_PORT: 28771
+ADMIN_PORT: 28781
