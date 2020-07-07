@@ -2,7 +2,7 @@
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://dcams:123456@172.25.0.22:18761/eureka
+      defaultZone: http://dcams:123456@172.25.0.21:18761/eureka
 
 EUREKA_PORT: 18761
 ZUUL_PORT: 18771
